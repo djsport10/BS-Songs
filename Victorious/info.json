@@ -1,0 +1,20 @@
+{
+    "songName": "Victorious",
+    "songSubName": "",
+    "authorName": "Panic! At The Disco",
+    "beatsPerMinute": 120,
+    "previewStartTime": 12,
+    "previewDuration": 10,
+    "coverImagePath": "cover.png",
+    "environmentName": "DefaultEnvironment",
+    "difficultyLevels": [
+        {
+            "difficulty": "Hard",
+            "difficultyRank": 4,
+            "audioPath": "song.ogg",
+            "jsonPath": "Hard.json",
+            "offset": 0,
+            "oldOffset": 0
+        }
+    ]
+}

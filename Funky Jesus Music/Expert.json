@@ -1,5 +1,5 @@
-{"_version":"1.5.0","_beatsPerMinute":114,"_beatsPerBar":16,"_noteJumpSpeed":10,"_shuffle":0,"_shufflePeriod":0.5,"_events":[{"_time":38.705501556396484,"_type":1,"_value":5}
-	,{"_time":38.705501556396484,"_type":0,"_value":5}
+{"_version":"1.5.0","_beatsPerMinute":114,"_beatsPerBar":16,"_noteJumpSpeed":10,"_shuffle":0,"_shufflePeriod":0.5,"_events":[{"_time":38.705501556396484,"_type":0,"_value":5}
+	,{"_time":38.705501556396484,"_type":1,"_value":5}
 ],"_notes":[{"_time":7.7055001258850098,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1}
 	,{"_time":7.7055001258850098,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1}
 ,{"_time":9.7054996490478516,"_lineIndex":1,"_lineLayer":0,"_type":1,"_cutDirection":1}
@@ -78,4 +78,8 @@
 ,{"_time":44.705501556396484,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1}
 ,{"_time":45.205501556396484,"_lineIndex":0,"_lineLayer":1,"_type":0,"_cutDirection":2}
 ,{"_time":45.705501556396484,"_lineIndex":0,"_lineLayer":1,"_type":0,"_cutDirection":3}
+,{"_time":213.70550537109375,"_lineIndex":2,"_lineLayer":0,"_type":1,"_cutDirection":1}
+,{"_time":213.70550537109375,"_lineIndex":1,"_lineLayer":0,"_type":0,"_cutDirection":1}
+,{"_time":214.70550537109375,"_lineIndex":1,"_lineLayer":1,"_type":0,"_cutDirection":0}
+,{"_time":214.70550537109375,"_lineIndex":2,"_lineLayer":1,"_type":1,"_cutDirection":0}
 ],"_obstacles":[]}
